@@ -4,7 +4,6 @@
   "description": "Sub Out Privacy Policy Website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
     "start": "node ./bin/www"
   },
   "author": "toddjohnson",
