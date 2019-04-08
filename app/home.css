@@ -45,6 +45,7 @@
 
 #int-title {
   font-size: 24px;
+  padding-bottom: 15px;
 }
 
 #int-body {
@@ -53,6 +54,7 @@
   font-size: 17px;
   /*margin-top: -6vh;*/
   line-height: 2;
+  padding-bottom: 5vh;
 }
 
 #body {
@@ -83,6 +85,7 @@
 }
 
 #privacy {
+  margin-top: -40vh;
   display: grid;
   width: 50%;
   justify-items: center;
