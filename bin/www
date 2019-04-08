@@ -4,8 +4,8 @@
  * Module dependencies.
  */
 
-var app = require('../app');
-var debug = require('debug')('portfoliosite:server');
+var app = require('../index');
+var debug = require('debug')('subprivacy:server');
 var http = require('http');
 
 /**
